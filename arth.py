@@ -1,0 +1,8 @@
+a= int(input("ENter 1st number: "))
+b= int(input("ENter 2nd number: "))
+print(f"+ result {a+b}")
+print(f"- result {a-b}")
+print(f"* result {a*b}")
+print(f"/ result {a/b}")
+print(f"** result {a**b}")
+print(f"% result {a%b}")
